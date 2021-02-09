@@ -84,7 +84,7 @@ public class GUI implements ActionListener {
         // change image label size
 
 
-
+        // Test
         // init frame
 
         frame.setSize(700, 500);
