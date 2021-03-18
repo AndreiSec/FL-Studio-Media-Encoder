@@ -6,8 +6,8 @@ As well, I turned it into an executable (.exe) file using Launch4j, and as well 
 
 To use this application, simply download the .exe file, select your project folder, select your output directory, and press "Encode". The application will automatically find your FL Studio install location.
 
-##Images
+## Images
 
 ![](images/start.png)
 ![](images/pickingProjects.png)
-![](images/readytoencode.png)
+![](images/readytoecode.png)
